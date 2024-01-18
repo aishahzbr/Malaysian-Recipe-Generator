@@ -20,4 +20,10 @@ selected ingredients that makes it less time consuming to find recipes.
 (g) Generated to-buy ingredients lists <br>
 (h) Daily total calories report <br>
 
+## A Little Snippet
+![recipe1](https://github.com/aishahzbr/Malaysian-Recipe-Generator/assets/101313173/18b72edb-6c56-4a20-9acc-c53a78304211)
+![recipe2](https://github.com/aishahzbr/Malaysian-Recipe-Generator/assets/101313173/c6485571-4eca-4adb-b677-76faa710fe2a)
+
+
+
 
